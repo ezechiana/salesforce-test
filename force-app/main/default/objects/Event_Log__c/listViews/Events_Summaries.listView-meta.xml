@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Events_Summaries</fullName>
+    <columns>NAME</columns>
+    <columns>Date_and_Time__c</columns>
+    <columns>Relates_To__c</columns>
+    <columns>Type__c</columns>
+    <columns>Sub_Type__c</columns>
+    <columns>Details__c</columns>
+    <filterScope>Mine</filterScope>
+    <label>Events Summaries</label>
+</ListView>
